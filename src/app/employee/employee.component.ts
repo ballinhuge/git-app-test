@@ -11,7 +11,6 @@ export class EmployeeComponent implements OnInit {
   constructor(private _http: Http) { }
 
   ngOnInit() {
-    
-  }
 
+  }
 }
